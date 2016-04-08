@@ -2,7 +2,7 @@
 
 
 Introduction<br>
-Canada has a reputation for high quality education both domestically and abroad. The number of universities and colleges have been increasingly growing. This is the inspiration behind designing EduCAN© a tool created to help students look for universities and colleges in Canada.
+Canada has a reputation for high quality education both domestically and abroad. The number of universities and colleges have been growing exponentially. This is the inspiration behind designing EduCAN© a tool created to help students look for universities and colleges in Canada.
 
 Requirements<br>
 Internet is needed to use the map view of the tool. Preferably a computer with 512 Mb RAM and more, with a windows operating system.
